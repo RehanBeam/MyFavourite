@@ -1,0 +1,16 @@
+#img1 {width: 465px;height: 385px;}
+#Hobby_Section {padding-top: 10px;}
+.menu {list-style:none;position: fixed;top:0px;cursor:pointer; z-index: 100;}
+.link {padding-top: 5px;padding-left: 9px;padding-right: 9px;padding-bottom: 5px;float:right;} 
+.link :hover {background-color: gray;} 
+#About_Section {margin-top: 100px;z-index: 99;}
+#Inspiration_Section {margin-top: 100px }
+.contact1 {background-color: black;color: white; height: 80px;}
+#spritelab_image {
+    width: 235px;
+    transition: width 2s;
+  }
+  
+  #spritelab_image:hover {
+    width: 300px;
+  }
